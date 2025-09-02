@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1055101780037",
+    "project_id": "dreamnotes-1c7e1",
+    "storage_bucket": "dreamnotes-1c7e1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055101780037:android:7aceb28a644c9890b6e32c",
+        "android_client_info": {
+          "package_name": "com.example.dream_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7VQWLd5ce7dsjrvIVhc6SRCuAlKQMa1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
